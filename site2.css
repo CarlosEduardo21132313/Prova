@@ -116,3 +116,18 @@ b {
     color: #d90f5a;
     background-color: antiquewhite;
 }
+
+
+/* formulario */
+
+form {
+    font-size: 250%;
+    position: absolute;
+    top: 50%;
+    left: 1%;
+    background-color: antiquewhite;
+}
+
+form #Sim {
+    color: green;
+}
